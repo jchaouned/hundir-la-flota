@@ -20,6 +20,8 @@ public class Jugador implements IJugador {
 	private IEntradaDatos iEntradaDatos;
 	
 	private String nombre;
+	private String puntos;
+	
 	private Tablero miTablero;
 	private Tablero tableroAtacante;
 	
